@@ -69,5 +69,19 @@ html {
 
 }
 
+.my-background-image{
+  background-image: url('Tyrell2.JPG');
+  background-size :cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  min-height: 400px;
+  color: yellow;
+}
+.word{
+  color: white
+}
+
+
 /* GRID -  */
 
